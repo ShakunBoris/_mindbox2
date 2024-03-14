@@ -16,7 +16,8 @@ id продукта и id категории.
 Написать оптимальный запрос на PySpark.
 
 # ответ
-ответ по ссылке можно проверить в google colab     
+ответ по ссылке можно проверить в google colab 
+там всё готово, сначала ставим паиспарк, потом запускаем скрипт    
 https://colab.research.google.com/drive/1DX1TdoB9mKGA5vvFS4L1sw_g5Y5H62Mh?usp=sharing       
 
 products_data = [(1, "product1"), (2, "product2"), (3, "product3"), (4, "product4")]     
