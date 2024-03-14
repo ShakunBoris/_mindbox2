@@ -15,7 +15,7 @@ id продукта и id категории.
 **Задача:**
 Написать оптимальный запрос на PySpark.
 
-# ОТВЕТ
+# ответ
 ответ по ссылке можно проверить в google colab     
 https://colab.research.google.com/drive/1DX1TdoB9mKGA5vvFS4L1sw_g5Y5H62Mh?usp=sharing       
 
